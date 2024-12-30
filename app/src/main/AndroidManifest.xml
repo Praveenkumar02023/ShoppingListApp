@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyShoppingList"
         tools:targetApi="31">
+
+        <meta-data
+            android:name="com.gomaps.android.GMapsAPIKey"
+            android:value="AlzaSyc3Iif2ZXl3spKvZWhIZ0A9gKlyrW7fTLF" />
+
+
         <activity
             android:name=".MainActivity"
             android:exported="true"
